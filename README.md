@@ -4,7 +4,7 @@
 
 ---
 
-#### 🛠️ 当前在学
+#### 🛠️ 当前在学a
 
 - **AI 应用开发**：LLM / RAG / Gradio / Coze / Dify
 - **工程基础**：Git · Linux (WSL2) · Docker · SQL
